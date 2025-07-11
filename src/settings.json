@@ -40,7 +40,7 @@
       "items": [
         {
   "name": "Realistic AI Image",
-  "desc": "Generate photorealistic AI image with style & resolution",
+  "desc": "Generate photorealistic AI image with style & resolution. (prompt: your prompt)(style: photorealistic, cinematic, hyperreal, portrait)(resolution: 512x512, 768x768, 1024x1024, 1920x1080) (seed: number)",
   "path": "/ai/realisticimage?prompt=&style=&resolution=&seed=",
   "status": "ready",
   "params": {
