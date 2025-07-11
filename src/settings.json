@@ -69,8 +69,8 @@
           "path": "/tools/cloudkushort?url=&customkey=",
           "status": "ready",
           "params": {
-          "url": "The original URL to shorten",
-          "customkey": "Optional custom key for the short URL"
+            "url": "The original URL to shorten",
+            "customkey": "Optional custom key for the short URL"
           }
         }
       ]
