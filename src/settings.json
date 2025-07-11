@@ -81,7 +81,7 @@
           "path": "/maker/brat?text=",
           "status": "ready",
           "params": {
-          "text": "Teks yang ingin di-render ke gambar aesthetic"
+            "text": "Teks yang ingin di-render ke gambar aesthetic"
           }
         }
       ]
