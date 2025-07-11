@@ -76,7 +76,7 @@
       "name": "Maker Endpoints",
       "items": [
         {
-  "name": "Brat Text Render",
+  "name": "Brat Image",
   "desc": "Render teks aesthetic ke gambar dengan efek blur dan warna putih. Path: /maker/brat?text=",
   "path": "/maker/brat?text=",
   "status": "ready",
