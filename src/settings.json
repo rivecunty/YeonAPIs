@@ -36,6 +36,23 @@
       ]
     },
     {
+      "name": "AI Image",
+      "items": [
+        {
+  "name": "Realistic AI Image",
+  "desc": "Generate photorealistic AI image with style & resolution",
+  "path": "/ai/realisticimage?prompt=&style=&resolution=&seed=",
+  "status": "ready",
+  "params": {
+    "prompt": "Image prompt to generate",
+    "style": "Image style (photorealistic, cinematic, hyperreal, portrait)",
+    "resolution": "Resolution (512x512, 768x768, 1024x1024, 1920x1080)",
+    "seed": "Optional image seed (number)"
+  }
+        }
+      ]
+    },
+    {
       "name": "Random",
       "items": [
         {
