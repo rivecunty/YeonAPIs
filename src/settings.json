@@ -105,7 +105,7 @@
           }
         },
         {
-          "name": "Brat Image",
+          "name": "Brat Image Maker",
           "desc": "Render teks aesthetic ke gambar dengan efek blur dan warna putih. Path: /maker/brat?text=",
           "path": "/maker/brat?text=",
           "status": "ready",
