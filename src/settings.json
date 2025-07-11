@@ -53,10 +53,10 @@
         {
   "name": "Image to Comic",
   "desc": "Convert image into manga/comic style",
-  "path": "/ai/image2comic?url=",
+  "path": "/ai/image2comic?imageurl=",
   "status": "ready",
   "params": {
-    "url": "Image URL to be transformed into comic style"
+    "imageurl": "Image URL to be transformed into comic style"
   }
         }
       ]
