@@ -49,6 +49,15 @@
     "resolution": "Resolution (512x512, 768x768, 1024x1024, 1920x1080)",
     "seed": "Optional image seed (number)"
   }
+        },
+        {
+  "name": "Image to Comic",
+  "desc": "Convert image into manga/comic style",
+  "path": "/ai/image2comic?url=",
+  "status": "ready",
+  "params": {
+    "url": "Image URL to be transformed into comic style"
+  }
         }
       ]
     },
