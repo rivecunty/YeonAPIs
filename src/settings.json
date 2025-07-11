@@ -93,12 +93,7 @@
             "url": "The original URL to shorten",
             "customkey": "Optional custom key for short URL"
           }
-        }
-      ]
-    },
-    {
-      "name": "Maker Endpoints",
-      "items": [
+        },
         {
   "name": "Penghitaman Waifu",
   "desc": "Ubah gambar waifu menjadi versi 'Hitam', 'Coklat', 'Carbon', 'Piggy', 'Nerd', atau 'Botak'. Endpoint: /ai/penghitamanwaifu?url=&filter=",
