@@ -12,7 +12,7 @@
   },
   "categories": [
     {
-      "name": "AI (Artificial Intelligence)",
+      "name": "AI Endpoints",
       "items": [
         {
           "name": "LuminAI",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "AI Image",
+      "name": "AI Image Endpoints",
       "items": [
         {
   "name": "Realistic AI Image",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "Random",
+      "name": "Random Endpoints",
       "items": [
         {
           "name": "Blue Archive",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Tools",
+      "name": "Tool Endpoints",
       "items": [
         {
           "name": "YouTube",
@@ -95,6 +95,21 @@
           }
         }
       ]
-    }            
+    },
+    {
+      "name": "Maker Endpoints",
+      "items": [
+        {
+  "name": "Penghitaman Waifu",
+  "desc": "Ubah gambar waifu menjadi versi 'Hitam', 'Coklat', 'Carbon', 'Piggy', 'Nerd', atau 'Botak'. Endpoint: /ai/penghitamanwaifu?url=&filter=",
+  "path": "/ai/penghitamanwaifu?url=&filter=",
+  "status": "ready",
+  "params": {
+    "url": "Image URL to apply waifu filter",
+    "filter": "Filter type (Hitam, Coklat, Nerd, Piggy, Carbon, Botak)"
+  }
+       }
+      ]
+    },           
   ]
 }
