@@ -62,20 +62,6 @@
       ]
     },
     {
-      "name": "Image Maker Endpoints",
-      "items": [
-        {
-          "name": "Brat Image",
-          "desc": "Render teks aesthetic ke gambar dengan efek blur dan warna putih. Path: /maker/brat?text=",
-          "path": "/maker/brat?text=",
-          "status": "ready",
-          "params": {
-            "text": "Teks yang ingin di-render ke gambar aesthetic"
-          }
-        }
-      ]
-    },
-    {
       "name": "Random Endpoints",
       "items": [
         {
@@ -117,7 +103,16 @@
             "url": "Image URL to apply waifu filter",
             "filter": "Filter type ( Hitam, Coklat, Nerd, Piggy, Carbon, Botak )"
           }
-       }
+        },
+        {
+          "name": "Brat Image",
+          "desc": "Render teks aesthetic ke gambar dengan efek blur dan warna putih. Path: /maker/brat?text=",
+          "path": "/maker/brat?text=",
+          "status": "ready",
+          "params": {
+            "text": "Teks yang ingin di-render ke gambar aesthetic"
+          }
+        }
       ]
     }         
   ]
