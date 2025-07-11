@@ -57,6 +57,16 @@
           "params": {
             "q": "Search query"
           }
+        },
+        {
+          "name": "Cloudku Short URL",
+          "desc": "Create shortlink using cloudku.click",
+          "path": "/tools/cloudkushort?url=&customkey=",
+          "status": "ready",
+          "params": {
+            "url": "The original URL to shorten",
+            "customkey": "Optional custom key for short URL"
+          }
         }
       ]
     }            
