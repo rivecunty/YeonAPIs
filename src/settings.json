@@ -115,7 +115,7 @@
           "status": "ready",
           "params": {
             "url": "Image URL to apply waifu filter",
-            "filter": "Filter type (Hitam, Coklat, Nerd, Piggy, Carbon, Botak)"
+            "filter": "Filter type ( Hitam, Coklat, Nerd, Piggy, Carbon, Botak )"
           }
        }
       ]
