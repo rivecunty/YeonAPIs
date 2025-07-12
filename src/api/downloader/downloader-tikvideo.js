@@ -34,7 +34,7 @@ module.exports = function (app) {
     if (!url) {
       return res.status(400).json({
         status: false,
-        error: "Parameter 'url' tidak boleh kosong"
+        error: "Parameter 'url' gak boleh kosong"
       });
     }
 
