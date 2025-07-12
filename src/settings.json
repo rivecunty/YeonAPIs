@@ -59,6 +59,16 @@
     "aspectRatio": "Rasio gambar, pilih salah satu: 1:1, 2:3, 9:16, 16:9 (default: 16:9)",
     "slug": "Tipe generator, pilih salah satu: ai-art-generator, ai-fantasy-map-creator, ai-youtube-thumbnail-generator, ai-old-cartoon-characters-generator (default: ai-art-generator)"
   }
+        },
+        {
+  "name": "Ghibli Image",
+  "desc": "Generate gambar bergaya Studio Ghibli (Spirited Away, Howl's Castle, dll) berdasarkan prompt dan style pilihan.",
+  "path": "/aiimg/ghibliimg?prompt=&style=",
+  "status": "ready",
+  "params": {
+    "prompt": "Deskripsi gambar yang ingin dihasilkan (misal: perempuan dengan payung di taman)",
+    "style": "Gaya gambar. Pilih salah satu: Spirited Away, Howl's Castle, Princess Mononoke, Totoro"
+  }
         }
       ]
     },
