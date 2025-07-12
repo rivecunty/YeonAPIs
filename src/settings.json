@@ -73,20 +73,6 @@
       ]
     },
     {
-      "name": "Maker Endpoints",
-      "items": [
-        {
-  "name": "Brat Text",
-  "desc": "Render teks brat ke image PNG",
-  "path": "/maker/brat?text=",
-  "status": "ready",
-  "params": {
-    "text": "Teks yang ingin dirender ke gambar brat"
-  }
-        }
-      ]
-    },
-    {
       "name": "Tool Endpoints",
       "items": [
         {
