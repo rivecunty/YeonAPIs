@@ -58,6 +58,17 @@
   "params": {
     "imageurl": "Image URL to be transformed into comic style"
   }
+        },
+        {
+  "name": "AI Freebox",
+  "desc": "Generate AI Image dari prompt dengan pilihan rasio dan tipe generator (slug)",
+  "path": "/aiimg/freebox?prompt=&aspectRatio=&slug=",
+  "status": "ready",
+  "params": {
+    "prompt": "Deskripsi gambar yang ingin dihasilkan",
+    "aspectRatio": "Rasio gambar, pilih salah satu: 1:1, 2:3, 9:16, 16:9 (default: 16:9)",
+    "slug": "Tipe generator, pilih salah satu: ai-art-generator, ai-fantasy-map-creator, ai-youtube-thumbnail-generator, ai-old-cartoon-characters-generator (default: ai-art-generator)"
+  }
         }
       ]
     },
