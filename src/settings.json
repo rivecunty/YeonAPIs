@@ -84,6 +84,20 @@
       ]
     },
     {
+      "name": "Downloader Endpoints"
+      "items": [
+        {
+  "name": "TikVideo",
+  "desc": "Download video TikTok tanpa watermark via TikVideo. Masukkan URL video TikTok.",
+  "path": "/downloader/tikvideo?url=",
+  "status": "ready",
+  "params": {
+    "url": "Link video TikTok yang valid untuk diunduh"
+  }
+        }
+      ]
+    },
+    {
       "name": "Stalk Endpoints",
       "items": [
         {
