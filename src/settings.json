@@ -84,6 +84,20 @@
       ]
     },
     {
+      "name": "Stalk Endpoints",
+      "items": [
+        {
+  "name": "Roblox Stalk",
+  "desc": "Stalk info lengkap akun Roblox berdasarkan username. Menampilkan data profil, status online, jumlah teman, followers, badge, dan lainnya.",
+  "path": "/stalk/roblox?username=",
+  "status": "ready",
+  "params": {
+    "username": "Username Roblox yang ingin dicari (case sensitive)"
+  }
+        }
+      ]
+    },
+    {
       "name": "Tool Endpoints",
       "items": [
         {
