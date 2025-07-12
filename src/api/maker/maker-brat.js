@@ -1,5 +1,5 @@
 const { createCanvas } = require("canvas");
-const Jimp = require("jimp");
+const { Jimp } = require("jimp");
 
 function colorize(ctx, width, colors) {
   if (Array.isArray(colors)) {
