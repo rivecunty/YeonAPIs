@@ -94,6 +94,16 @@
   "params": {
     "username": "Username Roblox yang ingin dicari (case sensitive)"
   }
+        },
+        {
+  "name": "Free Fire Stalk",
+  "desc": "Cek informasi profil akun Free Fire seperti level, rank, last login, pet, guild, dan lainnya.",
+  "path": "/stalk/freefire?uid=&region=",
+  "status": "ready",
+  "params": {
+    "uid": "UID akun Free Fire yang ingin dicek",
+    "region": "Region akun (contoh: id, sg, th). Default: id"
+  }
         }
       ]
     },
